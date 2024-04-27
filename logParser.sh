@@ -18,7 +18,5 @@ $HTTP_ERRORS\n
 \nNUBER OF REQIESTS BY HTTP STATUS CODES:\n 
 $HTTP_STATUS_CODES\n" #| mail -s "logParser results" itbn
 
-#LAST_RUN_DATE=$(date +%s)
-#printf "LAST_RUN_DATE: $LAST_RUN_DATE" > logParser.timestamp
 
 
